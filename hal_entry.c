@@ -3,4 +3,5 @@
 void hal_entry(void)
 {
     /* TODO: add your own code here */
+	/*Some code*/	
 }
