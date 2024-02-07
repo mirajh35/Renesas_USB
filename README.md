@@ -1,2 +1,2 @@
 # Renesas_USB
-Renesas sanergy USB communication
+Renesas Synergy USB communication
